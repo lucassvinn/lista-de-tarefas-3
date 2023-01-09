@@ -1,2 +1,6 @@
-# lista-de-tarefas-3
-Lista de exercícios da linguagem de programação C! Atividade especifica para resolver questões de Estrutura de Repetição 🗿
+# Programming task 🌩️
+
+- **Objetivo:** Fazer a lista de exercícios em C 🧠
+- **Dificuldade:** ⭐⭐⭐☆☆ (three star difficulty)
+- **Conclusão:** Estruturas de Repetição 🌱
+
