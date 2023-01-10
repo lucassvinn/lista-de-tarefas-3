@@ -11,6 +11,9 @@ int main()
     for (z=0; z<=i; z++)
         printf("%d\n", z);
 
+    
+    
+    
     return 0;
 }
 
