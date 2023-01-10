@@ -8,5 +8,6 @@ int main()
         printf("%c\n", letras[0]);
     }
     // Apenas um teste de código...estudando o for de outras maneiras
+    
     return 0;
 }
