@@ -10,5 +10,6 @@ int main()
     printf("Notas[1] = %f\n", notas[1]);
     printf("Codígo[0] = %c", codigo[0]);
 
+    
     return 0;
 }
