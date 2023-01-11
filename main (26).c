@@ -14,7 +14,8 @@ int main()
      scanf("%d", &idades);
      soma_idades = soma_idades + idades;
     }
-
+ 
+    
     media = soma_idades/qtde_idades;
     printf ("\n A media de idades é de : %.1f", media);
     return 0;
