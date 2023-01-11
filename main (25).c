@@ -2,18 +2,18 @@
 
 int main()
 {
-    int x, y, z;
+    int numero, cont, resultado;
     
     printf("Informe um número inteiro: ");
-    scanf("%d", &x);
+    scanf("%d", &numero);
     
-    if ((x>1) && (x<=10))
-        for (y=1; y<=10; y++) {
-            z = x * y;
-            printf("%d * %d = %d\n", x, y, z);
+    if ((numero>1) && (numero<=10))
+        for (cont=1; cont<=10; cont++) {
+            resultado = numero * cont;
+            printf("%d * %d = %d\n", numero, cont, resultado);
         }
     else
-        printf("\n o número não está entre 1 e 10");
+        printf("\n o número não está entre 1 e 10!");
         
     return 0;
 }
