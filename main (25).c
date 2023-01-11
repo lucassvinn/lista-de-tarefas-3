@@ -15,5 +15,6 @@ int main()
     else
         printf("\n o número não está entre 1 e 10!");
         
+    
     return 0;
 }
