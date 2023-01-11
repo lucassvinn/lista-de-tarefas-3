@@ -12,9 +12,8 @@ int main()
             z = x * y;
             printf("%d * %d = %d\n", x, y, z);
         }
-      }else
-
-printf("\n o número não está entre 1 e 10");
+    else
+        printf("\n o número não está entre 1 e 10");
         
     return 0;
 }
