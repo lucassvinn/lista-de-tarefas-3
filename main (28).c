@@ -23,5 +23,6 @@ int main()
     printf("O quadrado do primeiro número: %d\n", quadrado);
     printf("A raiz quadrada da soma dos quadrados é de: %d\n", srquad);
     printf("O seno da diferença do primeiro número pelo segundo: %d", sen);
+    
     return 0;
 }
