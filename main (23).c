@@ -17,6 +17,8 @@ int main()
                 printf("Você votou em: 34 - Silvio das Pedras!");
         }
     }
+    
+    // votação!
 
     return 0;
 }
