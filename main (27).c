@@ -14,7 +14,7 @@ int main()
     switch (option) {
         case 1:
             desc = vt - (vt * 10 / 100);
-            printf("O valor total fica: %d", desc);
+            printf("O valor total fica: %d!", desc);
         break;
         case 2:
             calc = vt / 2;
