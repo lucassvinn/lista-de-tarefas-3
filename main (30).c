@@ -2,18 +2,21 @@
 
 int main()
 {
-    float Raio, Altura, AreaLateral, AreaBaseTopo, AreaTotal, CustoLata;
+    float r, a, alateral, abtopo , atotal, clata;
     
-    scanf("%f", &Raio);
-    scanf("%f", &Altura);
+    printf("Informe o raio: ");
+    scanf("%f", &r);
     
-    AreaLateral = 2*3.14159*Raio*Altura;
-    AreaBaseTopo = 2*3.14159*Raio*Raio;
-    AreaTotal = AreaLateral + AreaBaseTopo;
-    CustoLata = AreaTotal*100;
+    printf("Informe a a altura: ");
+    scanf("%f", &a);
+    
+    alateral = 2*3.14159* r * a;
+    abtopo = 2*3.14159* r * r;
+    atotal = alateral + abtopo;
+    clata = atotal * 100;
   
   
-    printf("O VALOR DO CUSTO E = %.2f\n", CustoLata);
+    printf("O VALOR DO CUSTO E = %.2f\n", ctlata);
 
     return 0;
 }
