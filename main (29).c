@@ -2,7 +2,7 @@
 
 int main()
 {
-    int x, y, m;
+    int x, y, media;
     
     printf("Informe um valor inteiro para X: ");
     scanf("%d", &x);
@@ -10,9 +10,9 @@ int main()
     printf("Informe um valor inteiro para Y: ");
     scanf("%d", &y);
     
-    m = (x + y) / 2;
+    media = (x + y) / 2;
     
-    printf("A média aritmética de %d e %d e: %d", x, y, m);
+    printf("A média aritmética de %d e %d e: %d", x, y, media);
 
     return 0;
 }
