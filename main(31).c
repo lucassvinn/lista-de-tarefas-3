@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int tempo_sec;
-    int sec_min, sec_hor;
+    int tempo_sec, sec_min, sec_hor;
+    
     scanf("%d", &tempo_sec);
 
     sec_min = tempo_sec / 60;
