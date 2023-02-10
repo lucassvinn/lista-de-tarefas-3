@@ -30,6 +30,9 @@ int main() {
                 printf("Selecionado - Excluir Conta!");
                 break;
         }
+    else if (op == 'n') {
+         printf("Até a próxima!");
+    }
 
     return 0;
 }
